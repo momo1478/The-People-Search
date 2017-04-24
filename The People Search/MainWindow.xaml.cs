@@ -54,6 +54,7 @@ namespace The_People_Search
         private void Button_NewUser_Click(object sender, RoutedEventArgs e)
         {
             newUser.Show();
+            newUser = new NewUser(context);
         }
     }
 }

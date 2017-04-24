@@ -29,19 +29,20 @@ namespace The_People_Search
 
         private void Button_Create_User_Click(object sender, RoutedEventArgs e)
         {
-            Person personToAdd = new Person()
-            {
-                FirstName = textBox_FirstName.Text,
-                LastName = textBox_LastName.Text,
-                Address = textBox_Address.Text,
-                Age = int.Parse(textBox_Age.Text),
-                Interests = textBox_Interests.Text
-            };
-
-            mainWindowPC.People.Add(personToAdd);
-
             try
             {
+                Person personToAdd = new Person()
+                {
+                    FirstName = textBox_FirstName.Text,
+                    LastName = textBox_LastName.Text,
+                    Address = textBox_Address.Text,
+                    Age = int.Parse(textBox_Age.Text),
+                    Interests = textBox_Interests.Text
+                };
+
+                mainWindowPC.People.Add(personToAdd);
+
+
                 mainWindowPC.SaveChanges();
                 MessageBox.Show("Successfully Added User!", "Added User!", MessageBoxButton.OK, MessageBoxImage.Exclamation);
             }
