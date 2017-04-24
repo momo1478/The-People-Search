@@ -1,0 +1,22 @@
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\bin\Debug\The People Search.exe.config
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\bin\Debug\The People Search.exe
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\bin\Debug\The People Search.pdb
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\The People Search.csprojResolveAssemblyReference.cache
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\MainWindow.g.cs
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\App.g.cs
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\The People Search_MarkupCompile.cache
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\The People Search_MarkupCompile.lref
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\MainWindow.baml
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\The People Search.g.resources
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\The_People_Search.Properties.Resources.resources
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\The People Search.csproj.GenerateResource.Cache
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\The People Search.exe
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\The People Search.pdb
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\bin\Debug\EntityFramework.dll
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\bin\Debug\EntityFramework.xml
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\NewUser.g.cs
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\NewUser.baml
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\The_People_Search.Migrations.InitialCreate.resources
+C:\Users\Monish\Desktop\Game Projects\The People Search\The People Search\obj\Debug\The_People_Search.Migrations.InitialCreate1.resources
